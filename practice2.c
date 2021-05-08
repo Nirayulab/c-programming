@@ -1,3 +1,4 @@
+//write a c program to calculate  a simple interest//
 #include<stdio.h>
 
 int main(){
