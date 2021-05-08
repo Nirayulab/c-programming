@@ -1,3 +1,4 @@
+//write a c program to calculate area of triangle//
 #include<stdio.h>
 
 int main(){
